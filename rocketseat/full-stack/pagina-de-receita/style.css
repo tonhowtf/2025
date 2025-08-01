@@ -1,3 +1,7 @@
+body {
+    background-image: url(assets/bg-image.png);
+}
+
 img {
     border-radius: 16px;
 }
