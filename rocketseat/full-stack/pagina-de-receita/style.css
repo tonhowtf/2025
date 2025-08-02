@@ -62,5 +62,11 @@ ul {
 }
 
 footer {
-    color: #F0
+    color: #F0E8C2;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
 }
